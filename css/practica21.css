@@ -1,0 +1,29 @@
+html, body {
+  background-color: lightgrey;
+}
+
+#portafolioBoton {
+  background-color: lightskyblue;
+}
+
+#acercadeBoton {
+  background-color: blue;
+}
+
+#contactoBoton {
+  background-color: darkblue;
+}
+
+h6::selection, p::selection, h3::selection, strong::selection {
+  background-color: black;
+  color: lightgreen;
+}
+
+img::selection{
+  background-color: lightgrey;
+}
+
+
+.border-mio {
+  border-top:solid 5px;
+}
